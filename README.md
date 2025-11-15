@@ -1,3 +1,7 @@
+---
+icon: square-github
+---
+
 # P4nzer's Notez
 
 ## About Me
@@ -15,13 +19,11 @@ Let me talk
         * [Authentication](security/offensive-security/web-applications/web-basics/authentication.md)
         * [Web Requests](security/offensive-security/web-applications/web-basics/web-requests.md)
       * [Web Enumeration](security/offensive-security/web-applications/web-enumeration/)
-        * [Active Enumeration](broken-reference)
-          * [Fuzzing](security/offensive-security/web-applications/web-enumeration/fuzzing.md)
-          * [Proxies](security/offensive-security/web-applications/web-enumeration/proxies/)
-            * [Burp Suite](security/offensive-security/web-applications/web-enumeration/proxies/burp-suite.md)
-            * [ZAP](security/offensive-security/web-applications/web-enumeration/proxies/zap.md)
-            * [Proxy Tools](security/offensive-security/web-applications/web-enumeration/proxies/proxy-tools.md)
-        * [Passive Enumeration](broken-reference)
+        * [Fuzzing](security/offensive-security/web-applications/web-enumeration/fuzzing.md)
+        * [Proxies](security/offensive-security/web-applications/web-enumeration/proxies/)
+          * [Burp Suite](security/offensive-security/web-applications/web-enumeration/proxies/burp-suite.md)
+          * [ZAP](security/offensive-security/web-applications/web-enumeration/proxies/zap.md)
+          * [Proxy Tools](security/offensive-security/web-applications/web-enumeration/proxies/proxy-tools.md)
       * [Common Web Applications](security/offensive-security/web-applications/common-web-applications.md)
     * [Obfuscation](security/offensive-security/obfuscation/)
       * [JavaScript](security/offensive-security/obfuscation/javascript.md)
