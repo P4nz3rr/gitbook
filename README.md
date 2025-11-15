@@ -1,7 +1,3 @@
----
-icon: square-github
----
-
 # P4nzer's Notez
 
 ## About Me
