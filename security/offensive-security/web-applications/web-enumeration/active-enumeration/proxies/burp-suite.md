@@ -24,6 +24,8 @@ Lets say a web page field allows only numeric numbers to be inputted. We can cha
 
 Being able to modify how a web page renders can make certain web application penetration tests significantly easier, removing the need to submit input through an intercepted request. We can **automate this process** so that response modifications occur automatically, eliminating the need for repeated manual interception and editing.
 
+***
+
 {% code title="Automatic Request Modification" %}
 ```bash
 Proxy > Proxy settings > HTTP match and replace rules
@@ -51,6 +53,8 @@ Convert Selection > URL > URL-encode key characters # In Burp repeater select an
 {% endcode %}
 
 Burp has its own Decoded where we can encode and decode with many encoders (like Base64, Unicode). Moreover, Burp inspector can also be used inside the proxy and repeater tabs.
+
+***
 
 #### <mark style="color:$danger;">Intruder</mark>
 
@@ -109,3 +113,12 @@ The entries starting with `.` will skip due to our regex rule. The results table
 When the scan finishes, we will find one valid directory `/admin/` returning **200 OK**. We can manually check it in the browser to confirm.
 
 Burp Intruder can fuzz or brute-force almost anything—directories, parameters, passwords, or even perform password spraying against AD-backed login portals (OWA, SSL VPNs, RDS, Citrix, custom apps, etc.).
+
+***
+
+#### <mark style="color:$primary;">Scanner (Paid only)</mark>
+
+
+
+#### Extensions
+
