@@ -1,7 +1,6 @@
 # Table of contents
 
 * [P4nzer's Notez](README.md)
-* [P4nzer's Notes](p4nzers-notes.md)
 * [Writeups](certifications.md)
 * [Linux](linux.md)
 * [Security](security/README.md)
