@@ -2,7 +2,7 @@
 
 * [./p4nzer\_notes.sh](README.md)
 * [Table of contents](summary.md)
-* [Certifications](certifications.md)
+* [Writeups](certifications.md)
 * [Linux](linux.md)
 * [Security](security/README.md)
   * [Defensive Security](security/defensive-security.md)
