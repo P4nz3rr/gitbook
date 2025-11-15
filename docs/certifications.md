@@ -1,6 +1,0 @@
----
-icon: certificate
----
-
-# Certifications
-

@@ -1,6 +1,0 @@
----
-icon: lock-keyhole
----
-
-# Security
-
