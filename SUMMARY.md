@@ -1,6 +1,6 @@
 # Table of contents
 
-* [./p4nzer\_notes.sh](README.md)
+* [P4nzer's Notes](README.md)
 * [Table of contents](summary.md)
 * [Writeups](certifications.md)
 * [Linux](linux.md)
