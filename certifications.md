@@ -1,6 +1,6 @@
 ---
-icon: certificate
+icon: pen-to-square
 ---
 
-# Certifications
+# Writeups
 
