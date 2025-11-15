@@ -2,11 +2,9 @@
 
 ## About Me
 
-Let me talk
+Let me talk...
 
 ## Table of Contents
-
-
 
 * [Security](security/)
   * [Offensive Security](security/offensive-security/)
@@ -43,4 +41,3 @@ Let me talk
   * [Defensive Security](security/defensive-security.md)
 * [Linux](linux.md)
 * [Certifications](certifications.md)
-
