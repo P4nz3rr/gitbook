@@ -2,7 +2,8 @@
 
 ## Table of Contents
 
-* [./p4nzer\_notes.sh](broken-reference)
+
+
 * [Security](security/)
   * [Offensive Security](security/offensive-security/)
     * [Web Applications](security/offensive-security/web-applications/)
