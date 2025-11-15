@@ -1,3 +1,3 @@
 # Active Directory
 
-active
+active directory
