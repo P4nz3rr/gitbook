@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Table of contents](README.md)
+* [P4nzer's Notez](README.md)
 * [P4nzer's Notes](p4nzers-notes.md)
 * [Writeups](certifications.md)
 * [Linux](linux.md)
