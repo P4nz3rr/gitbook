@@ -1,6 +1,6 @@
 # Table of contents
 
-* [My Notes](README.md)
+* [My Notez](README.md)
 * [Writeups](certifications.md)
 * [Linux](linux.md)
 * [Security](security/README.md)
