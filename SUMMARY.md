@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Un0n's Notez](README.md)
+* [My Notes](README.md)
 * [Writeups](certifications.md)
 * [Linux](linux.md)
 * [Security](security/README.md)
