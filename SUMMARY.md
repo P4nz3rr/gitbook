@@ -27,6 +27,8 @@
           * [Stored XSS](security/offensive-security/web-applications/web-exploitation/xss/stored-xss.md)
           * [Reflected XSS](security/offensive-security/web-applications/web-exploitation/xss/reflected-xss.md)
           * [DOM XSS](security/offensive-security/web-applications/web-exploitation/xss/dom-xss.md)
+          * [Blind XSS](security/offensive-security/web-applications/web-exploitation/xss/blind-xss.md)
+          * [Session Hijacking](security/offensive-security/web-applications/web-exploitation/xss/session-hijacking.md)
       * [Common Web Applications](security/offensive-security/web-applications/common-web-applications.md)
     * [Wireless](security/offensive-security/wireless/README.md)
       * [802.11 & Auth](security/offensive-security/wireless/802.11-and-auth.md)
